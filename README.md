@@ -1,5 +1,4 @@
-# AIIMS_Admission_Prediction
-Machine learning model to predict AIIMS admissions
+
 # AIIMS Admission Prediction 📊
 
 This project uses Machine Learning to predict AIIMS admission chances based on student profile data.
