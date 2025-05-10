@@ -20,4 +20,4 @@ This project uses Machine Learning to predict AIIMS admission chances based on s
 3. Run the cells and explore the code.
 
 ## 📌 Author
-*Your Name Here*
+Nandini Singh
